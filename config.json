@@ -1,0 +1,32 @@
+{
+    "bot": {
+        "prefix": "!",
+        "id": "923865775738081300",
+        "secret": "QnhxflvAu3_FxMmRvpPPFdk3z7OXj2Ug",
+        "token": "OTEyMjg1NDYzNjQ4Mjg0Njcz.G6qU8v.Z_gQYMmC_7qFyZdsv7fR5cOI3391jGJ4l74qRY"
+    },
+    "dashboard": {
+        "port": 3000,
+        "url": "https://trobhost.ml/",
+        "callback": "https://trobhost.ml/callback",
+        "discord_server_ID": "976390736108994610",
+        "ownerids": ["712992661530738688", "969489210006466570", "803839409870602240"],
+        "ownershow": true,
+        "owners": [
+             {
+                "id": "976390736108994610",
+                "desc": "Yeba"
+            },
+            {
+                "id": "712992661530738688",
+                "desc": "Yeba"
+            }
+        ],
+        "arc": {
+            "enabled": false,
+            "code": ""
+        }
+    },
+    "mongodb": "mongodb+srv://VINEX:VINEX123@cluster0.vki80.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "discord": "https://discord.gg/ErQBv7F3J9"
+ }
